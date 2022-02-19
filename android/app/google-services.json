@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1047560925079",
+    "firebase_url": "https://burningchat-61f59.firebaseio.com",
+    "project_id": "burningchat-61f59",
+    "storage_bucket": "burningchat-61f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047560925079:android:bb53015ccab7e90b5cded2",
+        "android_client_info": {
+          "package_name": "com.huseyinasccigmail.f_mesajlasma_uygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047560925079-m9msnqvi84puue6tgo9bk3phqmdg1dp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huseyinasccigmail.f_mesajlasma_uygulamasi",
+            "certificate_hash": "720f9471c30e9d54665e28a5735f3736af182524"
+          }
+        },
+        {
+          "client_id": "1047560925079-n9sfhrah7919dt5a68djqg1uovoa9qv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huseyinasccigmail.f_mesajlasma_uygulamasi",
+            "certificate_hash": "309caa6af5ceb43ad476d5d4ec48d4ceeba95dd5"
+          }
+        },
+        {
+          "client_id": "1047560925079-12qvhhsrs47utdejvsqqvg5vg4pd76tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsK5LzJoU5_p05C5K9qfo0cStK1reeGzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047560925079-12qvhhsrs47utdejvsqqvg5vg4pd76tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

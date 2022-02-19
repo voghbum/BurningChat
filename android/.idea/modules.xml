@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1225609729/cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-1225609729/cloud_firestore.iml" group="android/cloud_firestore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-481624349/firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-481624349/firebase_auth.iml" group="android/firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-734453445/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-734453445/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-503216508/firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-503216508/firebase_messaging.iml" group="android/firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1254535369/firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1254535369/firebase_storage.iml" group="android/firebase_storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/59539011/flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/59539011/flutter_local_notifications.iml" group="android/flutter_local_notifications" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1264610543/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1264610543/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-414831075/google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/-414831075/google_sign_in.iml" group="android/google_sign_in" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1828886365/image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1828886365/image_picker.iml" group="android/image_picker" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\16992f8f025b97c297e967e76589924d\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\16992f8f025b97c297e967e76589924d\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\16992f8f025b97c297e967e76589924d\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\16992f8f025b97c297e967e76589924d\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\16992f8f025b97c297e967e76589924d\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\bildirimOncesiyedek\\f_mesajlasma_uygulamasi\\build\\firebase_messaging\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\huseyinasci\\.gradle\\caches\\transforms-2\\files-2.1\\b49f6179992b4cafc5a6a353b7c0d775\\play-services-base-17.0.0\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]

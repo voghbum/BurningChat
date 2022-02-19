@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f5131f4-ae31-4fa6-8616-186a75369dbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/huseyinasccigmail/f_mesajlasma_uygulamasi/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/huseyinasccigmail/f_mesajlasma_uygulamasi/FirebaseCloudMessagingPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/huseyinasccigmail/f_mesajlasma_uygulamasi/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/app_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/food.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/sample_large_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/secondary_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings_aar.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/facebook_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/google_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/key.jks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/chat_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/hatalar_exception.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/home_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/konusmalarim_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/kullanicilar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/landing_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/my_custom_bottom_navi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/profil.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/sign_in/email_sifre_giris_ve_kayit.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/sign_in/sign_in_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/app/tab_items.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common_widget/platform_duyarli_alert_dialog.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common_widget/platform_duyarli_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/common_widget/social_login_buttons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/locator.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/konusma.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/mesaj.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/models/user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/notification_handler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/repository/user_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/auth_base.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/bildirim_gonderme_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/database_base.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/fake_auth_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/firebase_auth_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/firebase_storage_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/firestore_db_service.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/services/storage_base.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/viewmodel/all_users_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/viewmodel/chat_view_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/viewmodel/user_viewmodel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_30_x86" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FlutterView" splitter-proportion="0.742268" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/lib/services/database_base.dart" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1hKczIUiwUqyPFl5frHtKeqXvbX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_29 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.huseyinasccigmail.f_mesajlasma_uygulamasi" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/app" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.26436782" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app\src\main\res\mipmap-xxxhdpi" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app\src\main\res\mipmap-xhdpi" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app\src\main\res\mipmap-mdpi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app\src\main\res" />
+      <recent name="D:\bildirimOncesiyedek\f_mesajlasma_uygulamasi\android\app\src\main\res\drawable" />
+      <recent name="C:\Users\huseyinasci\AndroidStudioProjects\f_mesajlasma_uygulamasi\android\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\huseyinasci\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f5131f4-ae31-4fa6-8616-186a75369dbc" name="Default Changelist" comment="" />
+      <created>1599763484971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599763484971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="92" key="#Inspections" timestamp="1600175026205">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="365" y="92" key="#Inspections/0.0.1536.864@0.0.1536.864" timestamp="1600175026205" />
+    <state x="381" y="93" key="#Notifications" timestamp="1601815803701">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="381" y="93" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1601815803701" />
+    <state x="365" y="92" key="#Plugins" timestamp="1601803123225">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="365" y="92" key="#Plugins/0.0.1536.864@0.0.1536.864" timestamp="1601803123225" />
+    <state x="512" y="237" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601837711540">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="512" y="237" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1601837711540" />
+    <state x="578" y="150" key="#com.intellij.ide.util.MemberChooser" timestamp="1601395313089">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="578" y="150" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1601395313089" />
+    <state x="622" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601815965765">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="622" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.864@0.0.1536.864" timestamp="1601815965765" />
+    <state x="353" y="89" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1601658308233">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="353" y="89" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1536.864@0.0.1536.864" timestamp="1601658308233" />
+    <state x="453" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601471728813">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="453" y="162" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1601471728813" />
+    <state x="503" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602784464773">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="503" y="181" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1602784464773" />
+    <state x="553" y="180" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1601659062367">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="553" y="180" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.864@0.0.1536.864" timestamp="1601659062367" />
+    <state x="628" y="199" key="AndroidProcessChooserDialog" timestamp="1601657610835">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="628" y="199" key="AndroidProcessChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1601657610835" />
+    <state x="577" y="141" key="DetectedRootsChooserDialog" timestamp="1601659124743">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="577" y="141" key="DetectedRootsChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1601659124743" />
+    <state x="603" y="180" key="FileChooserDialogImpl" timestamp="1601811783932">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="603" y="180" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601811783932" />
+    <state x="610" y="327" key="Github.ShareDialog" timestamp="1606137503455">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="610" y="327" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1606137503455" />
+    <state x="444" y="139" key="Github.UntrackedFilesDialog" timestamp="1606137507748">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="444" y="139" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1606137507748" />
+    <state width="1491" height="17" key="GridCell.Tab.0.bottom" timestamp="1603035189266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="17" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603035189266" />
+    <state width="1491" height="17" key="GridCell.Tab.0.center" timestamp="1603035189265">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="17" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603035189265" />
+    <state width="1491" height="17" key="GridCell.Tab.0.left" timestamp="1603035189265">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="17" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603035189265" />
+    <state width="1491" height="17" key="GridCell.Tab.0.right" timestamp="1603035189265">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1491" height="17" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603035189265" />
+    <state x="349" y="175" key="IDE.errors.dialog" timestamp="1601757526322">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="349" y="175" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1601757526322" />
+    <state x="303" y="0" key="SettingsEditor" timestamp="1606136757835">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="303" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1606136757835" />
+    <state width="498" height="447" key="SwitcherDM" timestamp="1601582037174">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="498" height="447" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1601582037174" />
+    <state x="97" y="97" width="1342" height="670" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1603034835250">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="97" y="97" width="1342" height="670" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.864@0.0.1536.864" timestamp="1603034835250" />
+    <state x="470" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1606136435554">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="470" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606136435554" />
+    <state x="317" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600343440616">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="317" y="170" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1600343440616" />
+    <state x="479" y="62" key="refactoring.ChangeSignatureDialog" timestamp="1601659770561">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="479" y="62" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1601659770561" />
+    <state x="429" y="199" key="run.anything.popup" timestamp="1601917321472">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="429" y="199" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1601917321472" />
+    <state x="431" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1606137496422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="183" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1606137496422" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
